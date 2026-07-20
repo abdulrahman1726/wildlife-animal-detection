@@ -1,4 +1,3 @@
-# wildlife-animal-detection
 # Wildlife Animal Detection — YOLOv11 + Streamlit
 
 Detects **buffalo, elephant, rhino, and zebra** in images/videos using a YOLOv11 model
